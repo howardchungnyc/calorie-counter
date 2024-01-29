@@ -89,6 +89,6 @@
     color: var(--light-green);
   }
 
-  .deficit {
+  .exceeded {
     color: var(--light-pink);
   }
